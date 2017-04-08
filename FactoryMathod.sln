@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMathod", "FactoryMathod\FactoryMathod.csproj", "{75A47F48-FAC9-4FBD-881C-815ACBAA15D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinerLibrary", "BussinerLibrary\BussinerLibrary.csproj", "{52A1D38E-0E20-4AA8-9638-96C19514716A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A47F48-FAC9-4FBD-881C-815ACBAA15D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A47F48-FAC9-4FBD-881C-815ACBAA15D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A47F48-FAC9-4FBD-881C-815ACBAA15D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A47F48-FAC9-4FBD-881C-815ACBAA15D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A1D38E-0E20-4AA8-9638-96C19514716A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A1D38E-0E20-4AA8-9638-96C19514716A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A1D38E-0E20-4AA8-9638-96C19514716A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A1D38E-0E20-4AA8-9638-96C19514716A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
