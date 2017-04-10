@@ -17,10 +17,10 @@ namespace FactoryMathod
             var b = new Program().Add(2, 3, 50,34,34,343,43,43,43,4);
         }
 
-        /*public int Add(int a, int b, int c)
+        public int Add(int a, int b, int c)
         {
             return a + b + c;
-        }*/
+        }
 
         public int Add(int a, int v, params int[] c)
         {
