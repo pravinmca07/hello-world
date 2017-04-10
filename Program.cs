@@ -22,9 +22,9 @@ namespace FactoryMathod
             return a + b + c;
         }
 
-        public int Add(int a, int v, params int[] c)
+        public int Add(int a,  params int[] c)
         {
-            return a + v + c[0];
+            return a +  c[0];
         }
     }
 }
