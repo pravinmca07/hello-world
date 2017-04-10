@@ -14,7 +14,7 @@ namespace FactoryMathod
             var broker = BrokerFactory.GetBroker(AirlineType.AIRASIA);
 
             var a = new Program().Add(1, 2, 3);
-            var b = new Program().Add(2, 3, 50,34,34,343,43,43,43,4);
+            ///var b = new Program().Add(2, 3, 50,34,34,343,43,43,43,4);
         }
 
         public int Add(int a, int b, int c)
